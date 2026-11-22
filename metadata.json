@@ -1,0 +1,6 @@
+{
+  "name": "España Career — بوابة فرص العمل في إسبانيا",
+  "description": "منصة إلكترونية متكاملة لاستكشاف فرص العمل في المدن الإسبانية والشركات وتقديم الطلبات إلكترونياً مع نظام وثائق محمي برمز دخول.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
